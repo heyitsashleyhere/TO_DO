@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://heytheretodo.netlify.app/">
+    <a href="https://heytheretodo.netlify.app/" target="_blank">
       Demo
     </a>
   </h3>
